@@ -49,10 +49,10 @@ int main()
 	Student stu[5] =
 	{
 		Student(1,65),
-		Student(2,65),
-		Student(3,65),
-		Student(4,65),
-		Student(5,65),
+		Student(2,75),
+		Student(3,85),
+		Student(4,95),
+		Student(5,55),
 	};
 
 	int i = 0;
